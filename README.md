@@ -1,0 +1,2 @@
+# COVID19-Data-Analysis-Using-Python
+Neste projeto, trabalhamos com um conjunto de dados COVID19, publicado pela John Hopkins University, que consiste em dados sobre o número acumulado de casos confirmados, por dia, em cada país. Além disso, temos outro conjunto de dados composto por diversos fatores da vida, avaliados pelas pessoas que vivem em cada país ao redor do globo. [Project done on Coursera Project Network]
